@@ -1,0 +1,12 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  > * {
+    width: 100%;
+  }
+  width: 200px;
+}
+
+.example-full-width {
+  width:100%;
+}
